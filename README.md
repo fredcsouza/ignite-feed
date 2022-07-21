@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-<p >Foi desenvolvido uma página de feed similar a de uma rede social com posts, comentários e likes. Projeto desenvolvido no curso da [Rocketseat](https://rocketseat.com.br).</p></br>
+<p >Foi desenvolvido uma página de feed similar a de uma rede social com posts, comentários e likes. Projeto desenvolvido no curso da <a href='https://rocketseat.com.br' target='_blank'>Rocketseat</a>.</p></br>
 
 ## Tecnologias
 
