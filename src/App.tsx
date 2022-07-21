@@ -16,21 +16,34 @@ const posts = [
     content: [
       { type: 'paragraph', content: 'Fala galeraa 👋' },
       { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' }
+      { type: 'link', content: 'design/doctorcare' }
     ],
     publishedAt: new Date('2022-07-11 16:00:00')
   },
   {
     id: 2,
     author: {
+      avatarUrl: "https://github.com/maykbrito.png",
+      name: "Mayk Brito",
+      role: "Sênior Web Dev & Instructor"
+    },
+    content: [
+      { type: "paragraph", content: 'Fala galeraa 👋' },
+      { type: 'paragraph', content: 'Finalmente finalizei meu novo site/portfólio. Foi um baita desafio criar todo o design e codar na unha, mas consegui 💪🏻' },
+      { type: 'link', content: 'Acesse e deixe seu feedback' }
+    ],
+    publishedAt: new Date('2022-07-11 14:00:00')
+  },
+  {
+    id: 3,
+    author: {
       avatarUrl: "https://github.com/diego3g.png",
       name: "Diego",
       role: "CTO Rocketseat"
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' }
+      { type: "paragraph", content: 'Fala galeraa 👋' },
+      { type: 'paragraph', content: 'Bora codar!!! 🚀' }
     ],
     publishedAt: new Date('2022-07-11 14:00:00')
   }
